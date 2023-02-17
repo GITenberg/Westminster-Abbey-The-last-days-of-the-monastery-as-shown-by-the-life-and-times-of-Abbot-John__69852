@@ -1,0 +1,35 @@
+_repo: Westminster-Abbey-The-last-days-of-the-monastery-as-shown-by-the-life-and-times-of-Abbot-John__69852
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Westlake, H. F. (Herbert Francis)
+    alias: Westlake, Herbert Francis
+    birthdate: 1879
+    deathdate: 1925
+    gutenberg_agent_id: '55454'
+    url: http://www.gutenberg.org/2009/agents/55454
+description: ''
+gutenberg_issued: '2023-01-21'
+identifiers:
+  gutenberg: '69852'
+  lccn: '22012767'
+language: en
+pgterms:marc904: https://archive.org/details/westminsterabbey00westuoft
+pgterms:marc905: 20190903042105westlake
+pgterms:marc906: '1921'
+pgterms:marc907: GB
+production_note: Chuck Greif, MWS and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: 'United Kingdom: Philip Allan & Co.,1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Westminster Abbey'
+- !lcsh 'Islip, John, 1464-1532'
+- !lcc 'BR'
+- GITenberg
+title: 'Westminster Abbey: The last days of the monastery as shown by the life and
+  times of Abbot John Islip, 1464-1532'
+url: http://www.gutenberg.org/ebooks/69852
