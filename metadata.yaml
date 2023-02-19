@@ -1,5 +1,8 @@
 _repo: Westminster-Abbey-The-last-days-of-the-monastery-as-shown-by-the-life-and-times-of-Abbot-John__69852
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69852-h/images/cover.jpg
 creator:
   author:
     agent_name: Westlake, H. F. (Herbert Francis)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55454'
     url: http://www.gutenberg.org/2009/agents/55454
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69852#Westminster-Abbey-The-last-days-of-the-monastery-as-shown-by-the-life-and-times-of-Abbot-John_
 gutenberg_issued: '2023-01-21'
 identifiers:
   gutenberg: '69852'
